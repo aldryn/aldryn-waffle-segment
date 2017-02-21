@@ -1,0 +1,7 @@
+{
+    "installed-apps": [
+        "aldryn_waffle_segment",
+        "waffle"
+    ], 
+    "package-name": "aldryn-waffle-segment"
+}
