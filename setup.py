@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     platforms=['OS Independent'],
     install_requires=[
-        'django-cms',
+        'django-cms>=3.2.0',
         'aldryn-segmentation',
         'django-waffle',
     ],
